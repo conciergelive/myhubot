@@ -1,1 +1,13 @@
-["redis-brain.coffee", "shipit.coffee"]
+[
+  "ascii.coffee",
+  "bitcoin.coffee",
+  "catfacts.coffee",
+  "class-namer.coffee",
+  "dealwithit.coffee",
+  "devexcuse.coffee",
+  "f-ing-weather.coffee",
+  "fuck_yeah_nouns.coffee",
+  "gauges.coffee",
+  "redis-brain.coffee",
+  "shipit.coffee"
+]
